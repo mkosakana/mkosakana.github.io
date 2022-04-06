@@ -1,8 +1,9 @@
-baseurl: https://example.com
+baseurl: https://mkosakana.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: developer mkosakana 🐟
+publishDir: docs
 
 languages:
     en:
@@ -42,7 +43,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: img/favicon.ico
 
     footer:
         since: 2020
@@ -54,14 +55,14 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: A Web developer in Japan. ― work as a backend engineer with Go, TypeScript, and more. 춤추듯 살자.
         avatar:
             enabled: true
             local: true
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
@@ -69,8 +70,8 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
-        provider: disqus
+        enabled: false
+        provider:
 
         disqusjs:
             shortname:
@@ -171,9 +172,9 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
-            src:
+            src: img/avatar.png
 
     colorScheme:
         # Display toggle
@@ -192,7 +193,9 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    main:
+        - params:
+              newTab: false
 
     social:
         - identifier: github
