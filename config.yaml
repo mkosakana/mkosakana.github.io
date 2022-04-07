@@ -1,4 +1,4 @@
-baseurl:
+baseurl: https://mkosakana.github.io/
 canonifyurls: true
 languageCode: en-us
 theme: hugo-theme-stack
@@ -67,7 +67,7 @@ params:
 
     comments:
         enabled: true
-        provider: utterances
+        provider: giscus
 
         disqusjs:
             shortname: mkosakana
@@ -123,13 +123,13 @@ params:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
-            repo:
-            repoID:
+            repo: mkosakana/mkosakana.github.io
+            repoID: R_kgDOHIewAQ
             category:
             categoryID:
-            mapping:
+            mapping: url
             lightTheme:
-            darkTheme:
+            darkTheme: true
             reactionsEnabled: 1
             emitMetadata: 0
 
