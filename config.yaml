@@ -4,20 +4,20 @@ canonifyurls: true
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: developer mkosakana 🐟
+title: mkosakana's blog 🐟
 
 languages:
     en:
         languageName: English
-        title: developer mkosakana 🐟
+        title: mkosakana's blog 🐟
         weight: 1
     ja:
         languageName: Japanese
-        title: developer mkosakana 🐟
+        title: mkosakana's blog 🐟
         weight: 1
 
 # Change it to your Disqus shortname before using
-disqusShortname: mkosakana
+disqusShortname:
 
 # GA Tracking ID
 googleAnalytics:
@@ -70,16 +70,16 @@ params:
         provider: giscus
 
         disqusjs:
-            shortname: mkosakana
+            shortname:
             apiUrl:
-            apiKey: q4ZKvDQrbS8F1McDXlei0SheXb89JGZJ2G9hHudDK2RPk3rsWsEVSJAqWRO68zw1
-            admin: Masaki Arai
+            apiKey:
+            admin:
             adminLabel:
 
         utterances:
-            repo: mkosakana/mkosakana.github.io
-            issueTerm: url
-            label: comment
+            repo:
+            issueTerm:
+            label:
 
         remark42:
             host:
