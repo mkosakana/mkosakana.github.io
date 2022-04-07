@@ -1,4 +1,4 @@
-baseurl:
+baseurl: ./
 canonifyurls: true
 languageCode: en-us
 theme: hugo-theme-stack
@@ -67,7 +67,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqusjs
+        provider: utterances
 
         disqusjs:
             shortname: mkosakana
@@ -77,9 +77,9 @@ params:
             adminLabel:
 
         utterances:
-            repo:
-            issueTerm: pathname
-            label:
+            repo: mkosakana/mkosakana.github.io
+            issueTerm: url
+            label: comment
 
         remark42:
             host:
