@@ -9,31 +9,26 @@ publishDir: docs
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: mkosakana
         weight: 1
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
+    ja:
+        languageName: Japanese
+        title: mkosakana
+        weight: 1
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: mkosakana
 
 # GA Tracking ID
 googleAnalytics:
 
 # Theme i18n support
 # Available values: ar, ca, de, el, en, es, fr, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
+DefaultContentLanguage: ja
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 permalinks:
     post: /p/:slug/
@@ -47,11 +42,11 @@ params:
     favicon: /images/favicon.ico
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
+        published: Jan 02, 2022
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
@@ -67,18 +62,18 @@ params:
         toc: true
         readingTime: true
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
-        provider:
+        enabled: true
+        provider: disqusjs
 
         disqusjs:
-            shortname:
+            shortname: mkosakana
             apiUrl:
-            apiKey:
-            admin:
+            apiKey: q4ZKvDQrbS8F1McDXlei0SheXb89JGZJ2G9hHudDK2RPk3rsWsEVSJAqWRO68zw1
+            admin: Masaki Arai
             adminLabel:
 
         utterances:
@@ -166,7 +161,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: mkosakana
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -174,7 +169,7 @@ params:
     defaultImage:
         opengraph:
             enabled: true
-            local: false
+            local: true
             src: img/avatar.png
 
     colorScheme:
@@ -182,7 +177,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
@@ -201,13 +196,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/mkosakana
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/mkosakana
           params:
               icon: brand-twitter
 
@@ -226,7 +221,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
