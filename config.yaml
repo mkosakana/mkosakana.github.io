@@ -1,10 +1,10 @@
 baseurl: https://mkosakana.github.io/
+publishDir: docs
 canonifyurls: true
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: developer mkosakana 🐟
-publishDir: docs
 
 languages:
     en:
@@ -128,7 +128,7 @@ params:
             category: General
             categoryID: DIC_kwDOHIewAc4COdLN
             mapping: url
-            darkTheme: dark
+            darkTheme: dark_dimmed
             reactionsEnabled: 100
             emitMetadata: 100
 
