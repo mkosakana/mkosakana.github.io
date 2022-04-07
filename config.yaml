@@ -4,16 +4,16 @@ canonifyurls: true
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: mkosakana's blog 🐟
+title: mkosakana's Blog 🐟
 
 languages:
     en:
         languageName: English
-        title: mkosakana's blog 🐟
+        title: mkosakana's Blog 🐟
         weight: 1
     ja:
         languageName: Japanese
-        title: mkosakana's blog 🐟
+        title: mkosakana's Blog 🐟
         weight: 1
 
 # Change it to your Disqus shortname before using
