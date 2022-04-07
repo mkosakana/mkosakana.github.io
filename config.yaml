@@ -129,8 +129,8 @@ params:
             categoryID:
             mapping: url
             lightTheme:
-            darkTheme: true
-            reactionsEnabled: 1
+            darkTheme: dark
+            reactionsEnabled: 100
             emitMetadata: 0
 
         gitalk:
