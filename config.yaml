@@ -125,13 +125,12 @@ params:
         giscus:
             repo: mkosakana/mkosakana.github.io
             repoID: R_kgDOHIewAQ
-            category:
-            categoryID:
+            category: General
+            categoryID: DIC_kwDOHIewAc4COdLN
             mapping: url
-            lightTheme:
             darkTheme: dark
             reactionsEnabled: 100
-            emitMetadata: 0
+            emitMetadata: 100
 
         gitalk:
             owner:
