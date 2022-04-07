@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on mkosakana</title>
-        <link>https://mkosakana.github.io/tags/</link>
-        <description>Recent content in Tags on mkosakana</description>
+        <title>Tags on 新井柾生 / mkosakana</title>
+        <link>/tags/</link>
+        <description>Recent content in Tags on 新井柾生 / mkosakana</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mkosakana.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>css</title>
-        <link>https://mkosakana.github.io/tags/css/</link>
+        <link>/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/css/</guid>
+        <guid>/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>html</title>
-        <link>https://mkosakana.github.io/tags/html/</link>
+        <link>/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/html/</guid>
+        <guid>/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>markdown</title>
-        <link>https://mkosakana.github.io/tags/markdown/</link>
+        <link>/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/markdown/</guid>
+        <guid>/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>themes</title>
-        <link>https://mkosakana.github.io/tags/themes/</link>
+        <link>/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/themes/</guid>
+        <guid>/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>privacy</title>
-        <link>https://mkosakana.github.io/tags/privacy/</link>
+        <link>/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/privacy/</guid>
+        <guid>/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>shortcodes</title>
-        <link>https://mkosakana.github.io/tags/shortcodes/</link>
+        <link>/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/shortcodes/</guid>
+        <guid>/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>ماركداون</title>
-        <link>https://mkosakana.github.io/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
+        <link>/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</guid>
+        <guid>/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</guid>
         <description></description>
         </item>
         <item>
         <title>نص</title>
-        <link>https://mkosakana.github.io/tags/%D9%86%D8%B5/</link>
+        <link>/tags/%D9%86%D8%B5/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/%D9%86%D8%B5/</guid>
+        <guid>/tags/%D9%86%D8%B5/</guid>
         <description></description>
         </item>
         <item>
         <title>وسم مع فراغات</title>
-        <link>https://mkosakana.github.io/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
+        <link>/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
+        <guid>/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
         <description></description>
         </item>
         <item>
         <title>emoji</title>
-        <link>https://mkosakana.github.io/tags/emoji/</link>
+        <link>/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mkosakana.github.io/tags/emoji/</guid>
+        <guid>/tags/emoji/</guid>
         <description></description>
         </item>
         

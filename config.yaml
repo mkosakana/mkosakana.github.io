@@ -1,4 +1,4 @@
-baseurl: https://mkosakana.github.io
+baseurl:
 canonifyurls: true
 languageCode: en-us
 theme: hugo-theme-stack
@@ -9,11 +9,11 @@ publishDir: docs
 languages:
     en:
         languageName: English
-        title: mkosakana
+        title: Masaki Arai / mkosakana
         weight: 1
     ja:
         languageName: Japanese
-        title: mkosakana
+        title: 新井柾生 / mkosakana
         weight: 1
 
 # Change it to your Disqus shortname before using
