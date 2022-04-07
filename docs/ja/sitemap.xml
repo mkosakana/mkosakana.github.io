@@ -2,125 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./</loc>
+    <loc>https://mkosakana.github.io/docs/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./en/"
+                href="https://mkosakana.github.io/docs/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="./"
+                href="https://mkosakana.github.io/docs/"
                 />
   </url><url>
-    <loc>./categories/</loc>
+    <loc>https://mkosakana.github.io/docs/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./en/categories/"
+                href="https://mkosakana.github.io/docs/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="./categories/"
+                href="https://mkosakana.github.io/docs/categories/"
                 />
   </url><url>
-    <loc>./p/test-chinese/</loc>
+    <loc>https://mkosakana.github.io/docs/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./post/</loc>
+    <loc>https://mkosakana.github.io/docs/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./categories/test/</loc>
+    <loc>https://mkosakana.github.io/docs/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://mkosakana.github.io/docs/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./archives/</loc>
+    <loc>https://mkosakana.github.io/docs/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./page/</loc>
+    <loc>https://mkosakana.github.io/docs/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/css/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/html/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/markdown/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./p/markdown-syntax-guide/</loc>
+    <loc>https://mkosakana.github.io/docs/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./categories/syntax/</loc>
+    <loc>https://mkosakana.github.io/docs/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./en/tags/"
+                href="https://mkosakana.github.io/docs/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="./tags/"
+                href="https://mkosakana.github.io/docs/tags/"
                 />
   </url><url>
-    <loc>./tags/themes/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./categories/themes/</loc>
+    <loc>https://mkosakana.github.io/docs/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/privacy/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./p/rich-content/</loc>
+    <loc>https://mkosakana.github.io/docs/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/shortcodes/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
+    <loc>https://mkosakana.github.io/docs/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+    <loc>https://mkosakana.github.io/docs/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</loc>
+    <loc>https://mkosakana.github.io/docs/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/%D9%86%D8%B5/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/%D9%86%D8%B5/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./p/math-typesetting/</loc>
+    <loc>https://mkosakana.github.io/docs/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/emoji/</loc>
+    <loc>https://mkosakana.github.io/docs/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./p/emoji-support/</loc>
+    <loc>https://mkosakana.github.io/docs/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./about/</loc>
+    <loc>https://mkosakana.github.io/docs/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./links/</loc>
+    <loc>https://mkosakana.github.io/docs/links/</loc>
   </url><url>
-    <loc>./search/</loc>
+    <loc>https://mkosakana.github.io/docs/search/</loc>
   </url>
 </urlset>
