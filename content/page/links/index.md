@@ -2,13 +2,29 @@
 title: Links
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+    description: 🐟
+    website: https://github.com/mkosakana
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: LinkedIn
+    description: 📜
+    website: https://www.linkedin.com/in/mkosakana
+    image: linkedin_logo_icon_170234.png
+  - title: Qiita
+    description: 📖
+    website: https://qiita.com/mkosakana
+    image: qiita_icon.png
+  - title: Twitter
+    description: 🦩
+    website: https://twitter.com/mkosakana
+    image: twitter_icon.png
+  - title: Wantedly
+    description: 🔍
+    website: https://www.wantedly.com/id/mkosakana
+    image: wantedly_icon.png
+  - title: Zenn
+    description: 📔
+    website: https://zenn.dev/mkosakana
+    image: zenn_icon.png
 menu:
     main: 
         weight: -50
@@ -17,21 +33,3 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
