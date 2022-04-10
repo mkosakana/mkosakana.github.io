@@ -34,4 +34,4 @@ jobs:
           external_repository: smpny7/smpny7.github.io
           publish_dir: ./docs
           publish_branch: gh-pages
-#           cname: mkosakana.net
+          cname: mkosakana.net
