@@ -5,11 +5,10 @@
         <link>https://mkosakana.net/post/</link>
         <description>Recent content in Posts on mkosakana&#39;s Blog 🐟</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Fri, 01 Apr 2022 09:11:50 +0900</lastBuildDate><atom:link href="https://mkosakana.net/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="https://mkosakana.net/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>ポートフォリオサイト / ブログ 解説しました 🧑🏻‍🚀</title>
         <link>https://mkosakana.net/p/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%82%B5%E3%82%A4%E3%83%88-/-%E3%83%96%E3%83%AD%E3%82%B0-%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
-        <pubDate>Fri, 01 Apr 2022 09:11:50 +0900</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://mkosakana.net/p/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%82%B5%E3%82%A4%E3%83%88-/-%E3%83%96%E3%83%AD%E3%82%B0-%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
         <description>&lt;img src="https://mkosakana.net/p/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%82%B5%E3%82%A4%E3%83%88-/-%E3%83%96%E3%83%AD%E3%82%B0-%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/my_new_blog.jpg" alt="Featured image of post ポートフォリオサイト / ブログ 解説しました 🧑🏻‍🚀" /&gt;&lt;h1 id=&#34;はじめに&#34;&gt;はじめに&lt;/h1&gt;
@@ -27,7 +26,7 @@
 &lt;li&gt;音楽と旅行が大好き&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;このサイトについて&#34;&gt;このサイトについて&lt;/h2&gt;
-&lt;p&gt;今のところこのサイトは，自分の作成物についてガンガン紹介していくために使い，技術発信などについては引き続き
+&lt;p&gt;今のところこのサイトは，自分の作成物についてガンガン紹介していくために使い，メインの技術発信などについては引き続き
 &lt;a class=&#34;link&#34; href=&#34;https://zenn.dev/mkosakana&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Zenn&lt;/a&gt; にて行おうと考えています．
 自分のポートフォリオサイトを持っておくのはやはりエンジニアとして大切ですよね&amp;hellip;

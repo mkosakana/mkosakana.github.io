@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mkosakana.net/</loc>
-    <lastmod>2022-04-01T09:11:50+09:00</lastmod>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,16 @@
                 href="https://mkosakana.net/"
                 />
   </url><url>
+    <loc>https://mkosakana.net/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mkosakana.net/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mkosakana.net/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mkosakana.net/categories/</loc>
-    <lastmod>2022-04-01T09:11:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,26 +37,12 @@
                 />
   </url><url>
     <loc>https://mkosakana.net/categories/idea/</loc>
-    <lastmod>2022-04-01T09:11:50+09:00</lastmod>
-  </url><url>
-    <loc>https://mkosakana.net/post/</loc>
-    <lastmod>2022-04-01T09:11:50+09:00</lastmod>
-  </url><url>
-    <loc>https://mkosakana.net/p/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%82%B5%E3%82%A4%E3%83%88-/-%E3%83%96%E3%83%AD%E3%82%B0-%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</loc>
-    <lastmod>2022-04-01T09:11:50+09:00</lastmod>
-  </url><url>
-    <loc>https://mkosakana.net/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mkosakana.net/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mkosakana.net/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkosakana.net/links/</loc>
   </url><url>
     <loc>https://mkosakana.net/tags/new-portfolio-/-blog/</loc>
+  </url><url>
+    <loc>https://mkosakana.net/post/</loc>
   </url><url>
     <loc>https://mkosakana.net/search/</loc>
   </url><url>
@@ -63,5 +57,7 @@
                 hreflang="ja"
                 href="https://mkosakana.net/tags/"
                 />
+  </url><url>
+    <loc>https://mkosakana.net/p/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%82%B5%E3%82%A4%E3%83%88-/-%E3%83%96%E3%83%AD%E3%82%B0-%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</loc>
   </url>
 </urlset>
