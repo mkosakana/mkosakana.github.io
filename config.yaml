@@ -1,4 +1,4 @@
-baseurl: https://mkosakana.github.io/
+baseurl: https://mkosakana.net
 publishDir: docs
 canonifyurls: true
 languageCode: en-us

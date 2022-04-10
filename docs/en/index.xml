@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>mkosakana&#39;s Blog 🐟</title>
-        <link>https://mkosakana.github.io/en/</link>
+        <link>https://mkosakana.net/en/</link>
         <description>Recent content on mkosakana&#39;s Blog 🐟</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://mkosakana.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://mkosakana.net/en/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

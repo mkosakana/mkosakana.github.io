@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mkosakana.github.io/en/categories/</loc>
+    <loc>https://mkosakana.net/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mkosakana.github.io/categories/"
+                href="https://mkosakana.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mkosakana.github.io/en/categories/"
+                href="https://mkosakana.net/en/categories/"
                 />
   </url><url>
-    <loc>https://mkosakana.github.io/en/</loc>
+    <loc>https://mkosakana.net/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mkosakana.github.io/"
+                href="https://mkosakana.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mkosakana.github.io/en/"
+                href="https://mkosakana.net/en/"
                 />
   </url><url>
-    <loc>https://mkosakana.github.io/en/tags/</loc>
+    <loc>https://mkosakana.net/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mkosakana.github.io/tags/"
+                href="https://mkosakana.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mkosakana.github.io/en/tags/"
+                href="https://mkosakana.net/en/tags/"
                 />
   </url>
 </urlset>
